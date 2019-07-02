@@ -52,3 +52,4 @@ project(':disruptor').name = 'kovenant-disruptor'
 project(':progress').name = 'kovenant-progress'
 project(':functional').name = 'kovenant-functional'
 project(':incubating').name = 'kovenant-incubating'
+project(':hack mobile')oppo = ' command progress
